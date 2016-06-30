@@ -1,0 +1,1 @@
+default: -r features --tags ~@skip ENVIRONMENT=production --color --format pretty --format html -o results<%= ENV['TEST_ENV_NUMBER'] %>.html

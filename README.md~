@@ -1,0 +1,9 @@
+## To Run tests please use the following command:
+
+cucumber
+
+## To run tests in parallel mode use:
+
+parallel_cucumber features/
+
+
